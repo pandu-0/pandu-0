@@ -1,8 +1,8 @@
 # 💫 About Me:
 🧑‍💻 I'm currently a Data Science Student at SJSU<br>
-🔭 I’m looking for research opportunities<br>
+🔭 I love to do reasearch and I'm always for reserach opportunities<br>
 🌱 I'm always eager to learn about Machine Learning<br>
-⚡ Fun fact: I can speak 5 languages 
+⚡ Fun fact: I can speak 5 languages!
 
 
 # 💻 Tech Stack:
